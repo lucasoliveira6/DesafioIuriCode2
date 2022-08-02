@@ -142,8 +142,8 @@ img {
   }
 
   .card {
-    height: 380px;
-    width: 380px;
+    height: 3860px;
+    width: 360px;
     background-color: var(--bgCard);
     display: grid;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
